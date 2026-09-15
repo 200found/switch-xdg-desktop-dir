@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-# change the xdg desktop under kde6 plasma to another, existing folder
-# no args means switch back to $HOME/Desktop, the xdg default
+# change the xdg desktop under kde 6 plasma to another, existing folder. supports a cyclable history and can be used with a virtual desktop switch.
 
 # kde directories for right-click services
 # ~/.local/share/kio/servicemenus/
