@@ -4,11 +4,14 @@ a shell script to switch your xdg desktop dir folder.
 changes the xdg desktop under kde 6 plasma to another, existing folder. supports a cyclable history and can be used with a virtual desktop switch or a right-click service.
 
 ### kde directories for right-click services
-~/.local/share/kio/servicemenus/
-~/.local/share/applications/
+- ~/.local/share/kio/servicemenus/
+- ~/.local/share/applications/
 
 ## dependencies: 
-freedesktop, bash 4, mapfile, kdialog (kde) or notify-send (linux mint xfce).
+- freedesktop
+- bash 4
+- mapfile
+- kdialog (kde) or notify-send (linux mint xfce)
 
 ## todo
 - support more window managers. i started this while using linux mint xfce and now much prefer kde.
